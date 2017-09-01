@@ -1,0 +1,12 @@
+PODS:
+  - YLProgressBar (3.10.1)
+
+DEPENDENCIES:
+  - YLProgressBar
+
+SPEC CHECKSUMS:
+  YLProgressBar: 763ad9be70b8de5ab98a3fab27953f3771869e3d
+
+PODFILE CHECKSUM: 99143a60fcdfdcd10e3ac3b0d0d741c1ea527731
+
+COCOAPODS: 1.0.1
